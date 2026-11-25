@@ -94,6 +94,41 @@ The modules build on each other in order.
 |---|---|
 | [**assets**](assets/) | Local images used in the lesson files and handout. |
 
+## My work
+
+The workshop in `05-session-handout.md` is worked through for the case it
+prescribes: **Imageboost**, the promoted agent widget on ImmoScout24.
+
+> [!NOTE]
+> The course session ran on 21 September 2026 (course week 5). This work was
+> done later, on 2026-11-15, in one delegated pass by Claude (a coding agent).
+> There was no group and no live workshop. The owner's review is pending.
+> Nothing here is validated: there is no real Imageboost data, and every
+> number on the dashboard is simulated and labelled as mock.
+
+| Handout part | File | What it holds |
+|---|---|---|
+| Parts 1-2, Checkpoint 1 | [measurement-backlog.md](measurement-backlog.md) | The project board and 30 issues, written as a file |
+| Part 3 | [business-model-and-decision-question.md](business-model-and-decision-question.md) | Business model, decision question, pilot design, KPI tree |
+| Part 4, Checkpoint 2 | [hypotheses.md](hypotheses.md) | 8 hypotheses, 9 assumptions |
+| Part 5 | [metric-inventory.md](metric-inventory.md) | 26 candidate metrics across the five layers, KPI shortlist |
+| Parts 6-7, Checkpoint 3 | [kpi-definition-sheets.md](kpi-definition-sheets.md) | 5 KPI sheets, 3 guardrails, SMART targets |
+| Part 8, Checkpoint 4 | [okrs.md](okrs.md) | One product OKR, one team OKR |
+| Part 9 | [governance-and-review-cadence.md](governance-and-review-cadence.md) | Owners, cadences, decision rules, launch gate, change log |
+| Part 10, Checkpoint 5 | [measurement-briefing.md](measurement-briefing.md) | One-page briefing and the skeptical-stakeholder rehearsal |
+| Part 11, Checkpoint 6 | [dashboard/](dashboard/) | Static dashboard prototype: open `dashboard/index.html` |
+| Part 12 | [ai-collaboration-log.md](ai-collaboration-log.md) | 54 review findings with decisions; how the work was really done |
+| Part 13 | [validation-summary.md](validation-summary.md) | Validation commands, results, open items |
+| Lessons 01-04 | [check-your-understanding.md](check-your-understanding.md) | My answers to the 16 lesson questions |
+
+Not possible in a solo pass, and not done:
+
+- No GitHub Project board and no GitHub issues were created. They are
+  written down in `measurement-backlog.md`.
+- No group drafted or decided. A second Claude instance ran the six
+  checkpoint reviews; the drafting Claude decided what to change.
+- No stakeholder, agent or searcher was asked anything.
+
 ## Setup
 
 > [!NOTE]
